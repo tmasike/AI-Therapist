@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+*.pyc
+chatbot/
+venv/
+.env
+.DS_Store
+build/
+dist/
+.env.local
+.vscode/
